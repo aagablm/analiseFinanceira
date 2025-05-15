@@ -19,3 +19,6 @@ O objetivo é apresentar uma visão geral de indicadores financeiros, como:
 
 - Power BI Desktop
 - Microsoft Excel
+
+![image](https://github.com/user-attachments/assets/b79ad6fa-7f32-4063-91af-059592039f99)
+
